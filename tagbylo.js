@@ -12,6 +12,8 @@ function handleInput(){
         myText.innerHTML = "za maua, daj wienkszom"
     } else if (zgadnietaLiczba == losowaLiczba ){
         myText.innerHTML = "holibka ale szczynście"
+    } else {
+        myText.innerHTML = "nje kufa"
     }
 }
 
