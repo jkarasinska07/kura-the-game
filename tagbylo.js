@@ -11,7 +11,7 @@ function handleInput(){
     } else if (zgadnietaLiczba < losowaLiczba ){
         myText.innerHTML = "za maua, daj wienkszom"
     } else if (zgadnietaLiczba == losowaLiczba ){
-        myText.innerHTML = "holibka"
+        myText.innerHTML = "holibka ale szczynście"
     }
 }
 
